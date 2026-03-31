@@ -1,4 +1,4 @@
-# Hi there, I'm Mingyu 👋 
+# Hi there, I'm Henry Chiang 👋 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=71BCF7&center=true&vCenter=true&width=500&lines=Full-stack+Software+Engineer;Building+Scalable+E-commerce;Crafting+Fluid+Mobile+Apps;DevOps+%26+Cloud+Native+Enthusiast" alt="Typing SVG" />
